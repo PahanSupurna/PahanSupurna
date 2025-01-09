@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
+I'm Pahan Supurna, a passionate Software Engeneering Undergraduate.
 
-<!--
-**PahanSupurna/PahanSupurna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- **Languages**: Python, Java, SQL
+- **Frameworks**: React, Spring Boot
 
-Here are some ideas to get you started:
+## 🌟 Projects
+- [Event-Ticket-Booking-System](https://github.com/username/event-ticket-booking-system)
+- [Another Cool Project](https://github.com/username/another-project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## 📫 Contact Me
+- [LinkedIn](https://linkedin.com/in/PahanSupurna)
+- Email: pahansupurna2006@gmail.com
