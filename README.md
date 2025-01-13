@@ -10,7 +10,7 @@ I'm Pahan Supurna, a passionate Software Engeneering Undergraduate.
 - [Another Cool Project](https://github.com/username/another-project)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?PahanSupurna=PahanSupurna&show_icons=true)
 
 ## 📫 Contact Me
 - [LinkedIn](https://linkedin.com/in/PahanSupurna)
