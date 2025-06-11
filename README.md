@@ -1,57 +1,34 @@
-<h1 align="center">Hi there 👋, I'm Pahan Supurna</h1>
-<h3 align="center">🎓 Software Engineering Undergraduate | 💻 Passionate Developer</h3>
+<h1 align="center">
+ Hello There, I'm 👇 Pahan Supurna
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PahanSupurna&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=PahanSupurna&label=Profile%20Views&color=0e3b6f&style=flat" alt="Profile Views" />
 </p>
 
----
+<br>
 
-### 🛠 Tech Stack
 
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-- **Frameworks & Libraries**:  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-
----
-
-### 🌟 Featured Projects
-
-- 🚀 [**Event Ticket Booking System**](https://github.com/username/event-ticket-booking-system)  
-  A full-stack ticket booking system using React, Spring Boot & SQL.
-
-- 🌐 [**Another Cool Project**](https://github.com/username/another-project)  
-  Describe what this project is about in one line.
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PahanSupurna&show_icons=true&theme=tokyonight" alt="Pahan's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PahanSupurna&layout=compact&theme=tokyonight" alt="Top Languages" />
+ <a href="mailto:pahansupurna2006@gmail.com?body=%0A%0A---%0A_github_" target="blank"><img align="center" src="https://img.icons8.com/fluency-systems-regular/48/FFFFFF/message-squared.png" alt="pahansupurna2006@gmail.com" height="30" width="30" /></a>
+ <a href="www.linkedin.com/in/pahan-supurna" target="blank"><img align="center" src="https://img.icons8.com/fluency-systems-regular/48/FFFFFF/linkedin.png" alt="PahanSupurna" height="30" width="30" /></a>
+ <a href="https://www.instagram.com/pahan_supz/" target="blank"><img align="center" src="https://img.icons8.com/fluency-systems-regular/48/FFFFFF/instagram-new--v1.png" alt="PahanSupurna" height="30" width="30" /></a>
 </p>
 
----
+<br>
+<br>
+<br>
 
-### 🔗 Connect with Me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PahanSupurna&theme=transparent&short_numbers=true&card_width=600&hide_border=true&type=png&dates=1f6ee9&background=EB545400&border=1f6ee9&stroke=EBEBEB&ring=91badc&fire=91badc&currStreakNum=1f6ee9&sideNums=1f6ee9&currStreakLabel=1f6ee9&sideLabels=1f6ee9&excludeDaysLabel=1f6ee9" alt="GitHub Streak" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/PahanSupurna)
-📧 **Email**: pahansupurna2006@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PahanSupurna&show_icons=true&theme=transparent&hide_border=true&type=png&title_color=91badc&text_color=1f6ee9&icon_color=91badc" alt="GitHub Stats" />
+</p>
 
----
-
-### 💡 Fun Facts
-- 🧠 I love solving algorithms & building useful tools
-- 🌱 Currently learning more about **Cloud Infrastructure** & **DevOps**
-- 🎯 Always striving for clean, readable, and maintainable code
-
----
-
-<!-- Feel free to personalize it further! -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PahanSupurna&layout=donut&theme=transparent&hide_border=true&type=png&title_color=91badc&text_color=1f6ee9" alt="Top Languages" />
+</p>
