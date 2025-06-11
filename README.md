@@ -1,5 +1,5 @@
 <h1 align="center">
- Hello There, I'm 👇 Pahan Supurna
+ Hello There, I'm 👇
 </h1>
 
 <p align="center">
@@ -7,9 +7,9 @@
 </p>
 
 <br>
-
-
-
+<p align="center">
+  <img src="assets/banner.png" alt="Pahan Supurna Banner" width="100%" />
+</p>
 
 <p align="center">
  <a href="mailto:pahansupurna2006@gmail.com?body=%0A%0A---%0A_github_" target="blank"><img align="center" src="https://img.icons8.com/fluency-systems-regular/48/FFFFFF/message-squared.png" alt="pahansupurna2006@gmail.com" height="30" width="30" /></a>
